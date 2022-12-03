@@ -1,0 +1,57 @@
+body{
+background-image: url(/imgs/descarga.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+.Desarrolladora{
+    color: white;
+    text-align: center;
+}
+.Titulo{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+.Titulo2{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+.Desarrollador{
+    color: white;
+    text-align: center;
+}
+.Descripcion{
+    color: white;
+    text-align: center;
+}
+.Lista{
+    color: white;
+}
+.Muecas{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+.Sobrecarga{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+.Lista_Amuletos{
+    color: white;
+    text-align: left;
+    text-decoration: underline;
+}
+.Amuletos{
+    color: white;
+
+}
