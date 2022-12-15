@@ -6,8 +6,14 @@ background-image: url(../Imgs/descarga.png);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
-cursor: url(/Imgs/cursor.png), auto;
+cursor: url(../Imgs/cursor.png-removebg-preview.png), auto;
 
+}
+img{
+    cursor: url(../Imgs/mano.png-removebg-preview.png), auto;
+}
+a{
+    cursor: url(../Imgs/mano.png-removebg-preview.png), auto; 
 }
 h1{
     text-align: center;
