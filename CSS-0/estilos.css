@@ -3,6 +3,8 @@ background-image: url(../Imgs/descarga.png);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
+cursor: url(/Imgs/cursor.png), auto;
+
 }
 h1{
     text-align: center;
