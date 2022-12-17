@@ -11,7 +11,7 @@
 }
 .banner video{
     position: absolute;
-    top: 0;
+    top: 10;
     left: 0;
     object-fit: cover;
     width: 100%;
@@ -21,7 +21,7 @@
 }
 .banner .content{
     position: relative;
-    z-index: 1;
+    z-index: 2;
 
 }
 #inicio{
@@ -99,4 +99,7 @@ h2{
 .Amuletos{
     color: white;
 
+}
+.banner2{
+    background-color: crimson;
 }
