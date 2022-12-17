@@ -1,12 +1,46 @@
 *{
     font-family: arial;
 }
+.banner{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+
+}
+.banner .content{
+    position: relative;
+    z-index: 1;
+
+}
+#inicio{
+    position: relative;
+    z-index: 1;
+
+}
+.image-block-wrapper{
+    position: relative;
+    z-index: 1;
+}
 body{
 background-image: url(../Imgs/descarga.png);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
 cursor: url(../Imgs/cursor.png-removebg-preview.png), auto;
+margin: 0;
+padding: 0;
 
 }
 img{
