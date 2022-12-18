@@ -55,6 +55,12 @@ h1{
 h2{
     color: white;
     text-align: center;
+    margin: 25px;
+}
+h3{
+    color: white;
+    text-align: center;
+    margin: 25px;
 }
 .Desarrolladora{
     color: white;
@@ -102,4 +108,13 @@ h2{
 }
 .banner2{
     background-color: crimson;
+}
+details{
+    margin: 25px;
+}
+table{
+    margin-right: 25px;
+}
+p{
+    margin: 25px;
 }
